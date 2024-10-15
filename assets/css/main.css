@@ -74,7 +74,7 @@ a {
 
 .pesan1 {
   background: color-mix(in srgb, var(--accent-color), transparent 25%);
-  border-radius: 35%;
+  border-radius: 50%;
   color: var(--contrast-color);
   background: var(--accent-color);
   border: 0;
